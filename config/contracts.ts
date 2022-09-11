@@ -1,1 +1,1 @@
-export const TopicVoteAddress = '';
+export const TopicVoteAddress = '0xB8E196c499FFA9ABc9Ffe89F4a5F91205c9eBf12';
